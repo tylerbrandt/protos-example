@@ -1,5 +1,4 @@
 import grpc
-import sys
 
 def main():
     mod = grpc.protos('schema.proto')
